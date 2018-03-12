@@ -18,7 +18,7 @@
     "keypair": "^1.0.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "node-forge": "^0.6.34",
+    "node-forge": "^0.7.4",
     "nugget": "^1.5.4",
     "psjson": "^0.1.0"
   },
